@@ -2,6 +2,8 @@
 
 JPEG icons for Notion menu / ingredient pages.
 
+## Ingredient icons (`ingredientes/`)
+
 | Path | Ingredient |
 |------|------------|
 | `ingredientes/aceite.jpg` | Olive oil |
@@ -44,3 +46,13 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/feta.jpg` | Feta |
 | `ingredientes/langostinos.jpg` | Prawns |
 | `ingredientes/pepino.jpg` | Cucumber |
+
+## Page icons (`paginas/`)
+
+| Path | Page |
+|------|------|
+| `paginas/ingredientes.jpg` | Ingredients |
+| `paginas/platos.jpg` | Dishes |
+| `paginas/semanas.jpg` | Weeks |
+| `paginas/compra.jpg` | Shopping |
+| `paginas/menu.jpg` | Weekly menu |
