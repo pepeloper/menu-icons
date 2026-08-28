@@ -33,3 +33,8 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/salmon.jpg` | Salmon |
 | `ingredientes/tomate.jpg` | Tomato |
 | `ingredientes/tortitas-de-trigo.jpg` | Wheat tortillas |
+| `ingredientes/guacamole.jpg` | Guacamole |
+| `ingredientes/masa-de-pizza.jpg` | Pizza dough |
+| `ingredientes/huevo.jpg` | Egg |
+| `ingredientes/pimiento.jpg` | Bell pepper |
+| `ingredientes/salsa-yogur-lima.jpg` | Yogurt-lime sauce |
