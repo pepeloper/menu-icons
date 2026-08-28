@@ -18,3 +18,8 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/verduras-mixtas.jpg` | Mixed vegetables |
 | `ingredientes/garbanzos.jpg` | Chickpeas |
 | `ingredientes/pan-pita.jpg` | Pita bread |
+| `ingredientes/maiz.jpg` | Sweetcorn |
+| `ingredientes/jamon-serrano.jpg` | Jamón serrano |
+| `ingredientes/patata.jpg` | Potato |
+| `ingredientes/rucula.jpg` | Arugula |
+| `ingredientes/atun.jpg` | Tuna |
