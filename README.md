@@ -28,3 +28,8 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/zanahoria.jpg` | Carrot |
 | `ingredientes/parmesano.jpg` | Parmesan |
 | `ingredientes/calabacin.jpg` | Zucchini |
+| `ingredientes/mozzarella.jpg` | Mozzarella |
+| `ingredientes/arroz-basmati.jpg` | Basmati rice |
+| `ingredientes/salmon.jpg` | Salmon |
+| `ingredientes/tomate.jpg` | Tomato |
+| `ingredientes/tortitas-de-trigo.jpg` | Wheat tortillas |
