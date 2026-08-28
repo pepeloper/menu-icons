@@ -23,3 +23,8 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/patata.jpg` | Potato |
 | `ingredientes/rucula.jpg` | Arugula |
 | `ingredientes/atun.jpg` | Tuna |
+| `ingredientes/tomate-cherry.jpg` | Cherry tomato |
+| `ingredientes/cebolla.jpg` | Onion |
+| `ingredientes/zanahoria.jpg` | Carrot |
+| `ingredientes/parmesano.jpg` | Parmesan |
+| `ingredientes/calabacin.jpg` | Zucchini |
