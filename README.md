@@ -38,3 +38,9 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/huevo.jpg` | Egg |
 | `ingredientes/pimiento.jpg` | Bell pepper |
 | `ingredientes/salsa-yogur-lima.jpg` | Yogurt-lime sauce |
+| `ingredientes/lechuga.jpg` | Lettuce |
+| `ingredientes/coliflor.jpg` | Cauliflower |
+| `ingredientes/pollo.jpg` | Chicken |
+| `ingredientes/feta.jpg` | Feta |
+| `ingredientes/langostinos.jpg` | Prawns |
+| `ingredientes/pepino.jpg` | Cucumber |
