@@ -56,3 +56,6 @@ JPEG icons for Notion menu / ingredient pages.
 | `paginas/semanas.jpg` | Weeks |
 | `paginas/compra.jpg` | Shopping |
 | `paginas/menu.jpg` | Weekly menu |
+| `paginas/ingredientes-v2.jpg` | Ingredients (v2) |
+| `paginas/platos-v2.jpg` | Dishes (v2) |
+| `paginas/semanas-v2.jpg` | Weeks (v2) |
