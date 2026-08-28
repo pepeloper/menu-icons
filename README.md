@@ -13,3 +13,8 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/brocoli.jpg` | Broccoli |
 | `ingredientes/tzatziki.jpg` | Tzatziki |
 | `ingredientes/merluza.jpg` | Hake |
+| `ingredientes/jamon.jpg` | Ham |
+| `ingredientes/entrecot.jpg` | Ribeye |
+| `ingredientes/verduras-mixtas.jpg` | Mixed vegetables |
+| `ingredientes/garbanzos.jpg` | Chickpeas |
+| `ingredientes/pan-pita.jpg` | Pita bread |
