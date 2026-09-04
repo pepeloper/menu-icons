@@ -24,7 +24,10 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/jamon-serrano.jpg` | Jamón serrano |
 | `ingredientes/patata.jpg` | Potato |
 | `ingredientes/rucula.jpg` | Arugula |
-| `ingredientes/atun.jpg` | Tuna |
+| `ingredientes/atun.jpg` | Atún en lata (canned tuna) |
+| `ingredientes/atun-en-lata.jpg` | Canned tuna |
+| `ingredientes/lomo-de-atun.jpg` | Fresh tuna loin |
+| `ingredientes/sesamo.jpg` | Sesame seeds |
 | `ingredientes/tomate-cherry.jpg` | Cherry tomato |
 | `ingredientes/cebolla.jpg` | Onion |
 | `ingredientes/zanahoria.jpg` | Carrot |
@@ -46,6 +49,13 @@ JPEG icons for Notion menu / ingredient pages.
 | `ingredientes/feta.jpg` | Feta |
 | `ingredientes/langostinos.jpg` | Prawns |
 | `ingredientes/pepino.jpg` | Cucumber |
+
+
+## Dish icons (`platos/`)
+
+| Path | Dish |
+|------|------|
+| `platos/tataki-de-atun-ensalada-de-mango.jpg` | Tuna tataki with mango salad |
 
 ## Page icons (`paginas/`)
 
